@@ -1,6 +1,6 @@
 # cppChatterbox 🗨️
 
-*cppChatterbox** is a terminal-based chat application developed in C++ using **Boost.Asio** for asynchronous networking. It supports multiple clients chatting with each other through a central server. The project showcases core concepts like async I/O, multithreading, message encoding, and session management.
+*cppChatterbox* is a terminal-based chat application developed in C++ using **Boost.Asio** for asynchronous networking. It supports multiple clients chatting with each other through a central server. The project showcases core concepts like async I/O, multithreading, message encoding, and session management.
 
 ---
 
