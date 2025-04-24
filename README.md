@@ -62,6 +62,7 @@ classDiagram
     ChatSession *-- ChatMessage
     ChatRoom o-- ChatMessage
     ChatRoom o-- IParticipant
+```
 
 ---
 
